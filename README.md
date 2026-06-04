@@ -153,7 +153,7 @@ Naman Jain,101,12A,9876543210,naman@gmail.com,95,92,90,98,96,94.2
 ```text
 STUDENT_RECORD_MANAGEMENT_SYSTEM
 │
-├── main.c
+├── index.c
 ├── records.csv
 ├── report_cards/
 ├── README.md
