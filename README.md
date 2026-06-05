@@ -160,14 +160,23 @@ Naman Jain,101,12A,9876543210,naman@gmail.com,95,92,90,98,96,94.2
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
 ```text
-STUDENT_RECORD_MANAGEMENT_SYSTEM
+STUDENT_RECORD_MANAGEMENT_SYSTEM/
 │
-├── index.c
-├── records.csv
-├── report_cards/
+├── src/
+│   └── student_record.c
+│
+├── data/
+│   └── records.csv
+│
+├── screenshots/
+│   ├── (6 output images)
+|
+├── docs/
+│   └── architecture.jpeg
+│
 ├── README.md
 └── LICENSE
 ```
@@ -176,17 +185,44 @@ STUDENT_RECORD_MANAGEMENT_SYSTEM
 
 ## ⚙️ Installation & Execution
 
-### Compile
+### 1️⃣ Clone the Repository
 
 ```bash
-gcc main.c -o student_system
+git clone https://github.com/namanjainb3-tech/STUDENT_RECORD_MANAGEMENT_SYSTEM.git
+cd STUDENT_RECORD_MANAGEMENT_SYSTEM
 ```
 
-### Run
+### 2️⃣ Compile the Program
+
+Using GCC Compiler:
+
+```bash
+gcc src/student_record.c -o student_system
+```
+
+### 3️⃣ Run the Program
+
+#### Linux / macOS
 
 ```bash
 ./student_system
 ```
+
+#### Windows
+
+```bash
+student_system.exe
+```
+
+### 4️⃣ Login
+
+Use the default administrator password:
+
+```text
+admin123
+```
+
+After successful authentication, the main menu will appear with all record management and analytics features available.
 
 ---
 
