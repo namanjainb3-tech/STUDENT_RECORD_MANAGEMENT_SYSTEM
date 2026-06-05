@@ -8,6 +8,12 @@ This project demonstrates practical applications of Data Structures, File Handli
 
 ---
 
+📸 Preview
+
+![CLI_Preview](screenshots/output1.jpeg)
+
+---
+
 ## ✨ Key Features
 
 ### 📋 Student Record Management
@@ -55,6 +61,12 @@ Generates a detailed report card including:
 * CSV-based storage system
 * Data persistence across executions
 * Safe update and delete operations using temporary files
+
+---
+
+## System Architecture✨
+
+![Architecture](docs/architecture.jpeg)
 
 ---
 
