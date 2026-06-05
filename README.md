@@ -10,7 +10,7 @@ This project demonstrates practical applications of Data Structures, File Handli
 
 📸 Preview
 
-![CLI_Preview](screenshots/output1.jpeg)
+![CLI_Preview](screenshots/output1.jpg)
 
 ---
 
