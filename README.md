@@ -8,7 +8,7 @@ This project demonstrates practical applications of Data Structures, File Handli
 
 ---
 
-📸 Preview
+## 📸 Preview
 
 ![CLI_Preview](screenshots/output1.jpg)
 
